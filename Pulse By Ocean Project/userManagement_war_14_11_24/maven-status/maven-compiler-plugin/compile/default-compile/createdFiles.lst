@@ -1,0 +1,7 @@
+com\pulse\userManagement\service\RegisterRequest.class
+com\pulse\userManagement\service\UserService.class
+com\pulse\userManagement\service\LoginRequest.class
+com\pulse\userManagement\UserManagementApplication.class
+com\pulse\userManagement\controller\UserController.class
+com\pulse\userManagement\Repository\UserRepository.class
+com\pulse\userManagement\model\User.class
